@@ -392,4 +392,3 @@ MIT License © 2026
 Made with ❤️ for modern full-stack developers.
 
 </div>
-````
