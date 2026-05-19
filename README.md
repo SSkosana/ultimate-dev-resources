@@ -1,19 +1,28 @@
-````md
-# 🚀 Ultimate MERN + Next.js + Postgres Web Dev Resources
+Here’s a cleaner GitHub-ready version that fixes:
 
-> A curated collection of **100+ developer utility websites** for modern full-stack developers using the **MERN + PostgreSQL + Next.js** ecosystem.
+* ✅ Clickable Table of Contents
+* ✅ Proper anchor links
+* ✅ No broken images
+* ✅ Easier editing
+* ✅ Better GitHub rendering
+* ✅ Cleaner structure for a public repo
 
-<div align="center">
+Save this as:
 
-![Tech Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20Postgres%20%2B%20Next.js-black?style=for-the-badge)
-![Resources](https://img.shields.io/badge/Resources-100%2B-blue?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge)
-
-</div>
+```txt
+README.md
+```
 
 ---
 
-# 📚 Table of Contents
+````md
+# 🚀 Ultimate Dev Resources
+
+> A curated collection of **100+ modern web development resources** for developers using the **MERN + PostgreSQL + Next.js** stack.
+
+---
+
+## 📚 Table of Contents
 
 - [🎨 UI & Design](#-ui--design)
   - [Icons](#icons)
@@ -25,25 +34,23 @@
   - [Color Palette Generators](#color-palette-generators)
   - [Fonts & Typography](#fonts--typography)
   - [Illustrations](#illustrations)
-  - [Mockups & Images](#mockups--images)
+  - [Images & Mockups](#images--mockups)
 
 - [⚡ Frontend Development](#-frontend-development)
   - [Next.js Tools](#nextjs-tools)
   - [State Management](#state-management)
   - [Forms & Validation](#forms--validation)
-  - [Tables & Data Grids](#tables--data-grids)
   - [Charts & Data Visualization](#charts--data-visualization)
 
 - [🛠 Backend & APIs](#-backend--apis)
-  - [API Testing](#api-testing)
   - [Authentication](#authentication)
   - [Database Tools](#database-tools)
-  - [ORMs & Query Builders](#orms--query-builders)
+  - [API Testing](#api-testing)
 
 - [☁️ DevOps & Deployment](#️-devops--deployment)
 - [🧠 AI Developer Tools](#-ai-developer-tools)
 - [🧪 Testing & Debugging](#-testing--debugging)
-- [📦 Package & Productivity Tools](#-package--productivity-tools)
+- [📦 Productivity Tools](#-productivity-tools)
 - [📖 Learning Resources](#-learning-resources)
 
 ---
@@ -52,186 +59,152 @@
 
 ## Icons
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://lucide.dev | Beautiful open-source icon pack |
-| https://heroicons.com | Tailwind CSS SVG icons |
-| https://tabler-icons.io | 4k+ customizable icons |
-| https://phosphoricons.com | Flexible icon family |
-| https://react-icons.github.io/react-icons | Popular React icon library |
-| https://fontawesome.com | Industry-standard icons |
-| https://icons8.com/icons | Massive icon collection |
-| https://icones.js.org | Search all icon libraries |
-| https://remixicon.com | Open-source neutral icons |
-| https://boxicons.com | High-quality web icons |
-| https://feathericons.com | Simple clean icons |
-| https://css.gg | CSS-based icons |
-| https://iconoir.com | Open-source icon library |
-| https://svgrepo.com | Free SVG assets |
-| https://icon-sets.iconify.design | Universal icon framework |
+| [Lucide](https://lucide.dev) | Beautiful open-source icons |
+| [Heroicons](https://heroicons.com) | Tailwind SVG icons |
+| [Tabler Icons](https://tabler-icons.io) | Customizable icon set |
+| [Phosphor Icons](https://phosphoricons.com) | Flexible icon family |
+| [React Icons](https://react-icons.github.io/react-icons) | Popular React icon library |
+| [Font Awesome](https://fontawesome.com) | Industry-standard icons |
+| [Iconify](https://icon-sets.iconify.design) | Unified icon framework |
+| [SVG Repo](https://svgrepo.com) | Free SVG assets |
+| [Remix Icon](https://remixicon.com) | Open-source icon pack |
+| [Boxicons](https://boxicons.com) | High-quality web icons |
 
 ---
 
 ## React Components
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://ui.shadcn.com | Modern reusable components |
-| https://mui.com | Material UI React framework |
-| https://chakra-ui.com | Accessible React components |
-| https://mantine.dev | Full-featured React framework |
-| https://headlessui.com | Unstyled accessible UI |
-| https://radix-ui.com | Low-level accessible components |
-| https://nextui.org | Beautiful Next.js UI library |
-| https://flowbite.com | Tailwind component library |
-| https://www.reactbits.dev | Animated React components |
-| https://aceternity.com | Premium modern UI blocks |
-| https://magicui.design | Stunning UI components |
-| https://www.hyperui.dev | Tailwind CSS components |
-| https://daisyui.com | Tailwind component plugin |
-| https://www.material-tailwind.com | Material + Tailwind |
-| https://primereact.org | Rich React UI suite |
-| https://ant.design | Enterprise React components |
-| https://react-bootstrap.github.io | Bootstrap for React |
-| https://www.creative-tim.com | Dashboard templates |
-| https://www.tailwindawesome.com | Tailwind showcase |
-| https://tailwindui.com | Official Tailwind UI |
+| [Shadcn UI](https://ui.shadcn.com) | Modern reusable components |
+| [Chakra UI](https://chakra-ui.com) | Accessible React components |
+| [Mantine](https://mantine.dev) | Full-featured React framework |
+| [Material UI](https://mui.com) | React UI framework |
+| [Headless UI](https://headlessui.com) | Unstyled accessible UI |
+| [Radix UI](https://radix-ui.com) | Accessible primitives |
+| [Next UI](https://nextui.org) | Beautiful React UI library |
+| [Flowbite](https://flowbite.com) | Tailwind component library |
+| [DaisyUI](https://daisyui.com) | Tailwind CSS components |
+| [Aceternity UI](https://aceternity.com) | Modern UI blocks |
 
 ---
 
 ## UI Libraries
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://tailwindcss.com | Utility-first CSS |
-| https://getbootstrap.com | Popular CSS framework |
-| https://bulma.io | Modern CSS framework |
-| https://uiverse.io | Community UI elements |
-| https://tailblocks.cc | Tailwind blocks |
-| https://preline.co | Tailwind UI kit |
-| https://wind-ui.com | Tailwind component system |
-| https://floatui.com | Free Tailwind templates |
-| https://kitwind.io/products/kometa | Tailwind components |
-| https://merakiui.com | Elegant Tailwind UI |
+| [Tailwind CSS](https://tailwindcss.com) | Utility-first CSS framework |
+| [Bootstrap](https://getbootstrap.com) | Popular CSS framework |
+| [Bulma](https://bulma.io) | Modern CSS framework |
+| [Preline](https://preline.co) | Tailwind UI kit |
+| [Float UI](https://floatui.com) | Tailwind templates |
+| [Meraki UI](https://merakiui.com) | Elegant Tailwind components |
+| [HyperUI](https://www.hyperui.dev) | Free Tailwind components |
+| [Tailblocks](https://tailblocks.cc) | Tailwind blocks |
+| [UIverse](https://uiverse.io) | Community UI snippets |
+| [Magic UI](https://magicui.design) | Animated UI components |
 
 ---
 
 ## Animation Libraries
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://www.framer.com/motion | Production-ready animations |
-| https://motion.dev | Framer Motion docs |
-| https://animejs.com | Lightweight JS animation |
-| https://gsap.com | Professional animation toolkit |
-| https://www.react-spring.dev | Spring-physics animations |
-| https://lottiefiles.com | Lottie animations |
-| https://rive.app | Interactive animations |
-| https://animista.net | CSS animation playground |
-| https://magicui.design/docs/components | Animated components |
-| https://auto-animate.formkit.com | Auto animations |
+| [Framer Motion](https://motion.dev) | React animation library |
+| [GSAP](https://gsap.com) | Professional animations |
+| [Anime.js](https://animejs.com) | Lightweight JS animations |
+| [React Spring](https://www.react-spring.dev) | Physics-based animations |
+| [LottieFiles](https://lottiefiles.com) | Lottie animations |
+| [Rive](https://rive.app) | Interactive animations |
+| [Animista](https://animista.net) | CSS animation playground |
+| [Auto Animate](https://auto-animate.formkit.com) | Automatic animations |
 
 ---
 
 ## CSS Tools
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://css-tricks.com | CSS tutorials & snippets |
-| https://neumorphism.io | Neumorphism generator |
-| https://glassmorphism.com | Glassmorphism generator |
-| https://smoothshadows.com | Shadow generator |
-| https://9elements.github.io/fancy-border-radius | Border radius generator |
-| https://cssgradient.io | CSS gradient builder |
-| https://html-css-js.com | CSS generators |
-| https://layout.bradwoods.io | Flex/Grid visual builder |
-| https://flexboxfroggy.com | Learn flexbox |
-| https://cssgridgarden.com | Learn CSS Grid |
+| [CSS Tricks](https://css-tricks.com) | CSS tutorials |
+| [Glassmorphism](https://glassmorphism.com) | Glass effect generator |
+| [Neumorphism](https://neumorphism.io) | Neumorphism generator |
+| [Fancy Border Radius](https://9elements.github.io/fancy-border-radius) | Blob border generator |
+| [Smooth Shadows](https://smoothshadows.com) | Shadow generator |
+| [CSS Gradient](https://cssgradient.io) | Gradient generator |
+| [Layout Generator](https://layout.bradwoods.io) | Flex/Grid visual builder |
+| [Flexbox Froggy](https://flexboxfroggy.com) | Learn flexbox |
+| [Grid Garden](https://cssgridgarden.com) | Learn CSS Grid |
 
 ---
 
 ## Gradient Generators
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://coolors.co/gradients | Gradient collection |
-| https://gradienthunt.com | Curated gradients |
-| https://www.grabient.com | Gradient generator |
-| https://meshgradient.com | Mesh gradient creator |
-| https://haikei.app | SVG background generator |
-| https://bgjar.com | SVG background assets |
-| https://fffuel.co | Abstract background generator |
-| https://magicpattern.design | Pattern & gradient maker |
-| https://gradienta.io | Free gradients |
-| https://webgradients.com | Ready-to-use gradients |
+| [Coolors Gradients](https://coolors.co/gradients) | Gradient collection |
+| [Gradient Hunt](https://gradienthunt.com) | Curated gradients |
+| [Grabient](https://www.grabient.com) | Gradient generator |
+| [Mesh Gradient](https://meshgradient.com) | Mesh backgrounds |
+| [Haikei](https://haikei.app) | SVG backgrounds |
+| [BGJar](https://bgjar.com) | SVG assets |
+| [FFFuel](https://fffuel.co) | Abstract generators |
+| [Magic Pattern](https://magicpattern.design) | Pattern creator |
+| [WebGradients](https://webgradients.com) | Ready gradients |
 
 ---
 
 ## Color Palette Generators
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://coolors.co | Color palette generator |
-| https://colorhunt.co | Beautiful color palettes |
-| https://paletton.com | Advanced palette builder |
-| https://mycolor.space | Generate color schemes |
-| https://www.happyhues.co | UI color inspiration |
-| https://uicolors.app | Tailwind color generator |
-| https://yeun.github.io/open-color | Open-source color system |
-| https://realtimecolors.com | Typography + colors |
-| https://brandcolors.net | Brand color collection |
-| https://color.adobe.com | Adobe color wheel |
+| [Coolors](https://coolors.co) | Palette generator |
+| [Color Hunt](https://colorhunt.co) | Beautiful palettes |
+| [Paletton](https://paletton.com) | Advanced palette tool |
+| [MyColorSpace](https://mycolor.space) | Generate color schemes |
+| [UI Colors](https://uicolors.app) | Tailwind color generator |
+| [Realtime Colors](https://realtimecolors.com) | Typography + colors |
+| [Happy Hues](https://www.happyhues.co) | UI color inspiration |
+| [Adobe Color](https://color.adobe.com) | Color wheel |
 
 ---
 
 ## Fonts & Typography
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://fonts.google.com | Free web fonts |
-| https://fontshare.com | Free modern fonts |
-| https://www.dafont.com | Font collection |
-| https://www.fontspace.com | Free fonts |
-| https://www.cdnfonts.com | Web fonts |
-| https://typescale.com | Typography scales |
-| https://fontjoy.com | Font pairing generator |
-| https://www.typewolf.com | Typography inspiration |
-| https://modernfontstacks.com | CSS font stacks |
-| https://www.fontpair.co | Font combinations |
+| [Google Fonts](https://fonts.google.com) | Free web fonts |
+| [Fontshare](https://fontshare.com) | Modern fonts |
+| [Type Scale](https://typescale.com) | Typography scales |
+| [Fontjoy](https://fontjoy.com) | Font pairing |
+| [Typewolf](https://www.typewolf.com) | Typography inspiration |
+| [Modern Font Stacks](https://modernfontstacks.com) | CSS font stacks |
 
 ---
 
 ## Illustrations
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://undraw.co | Open-source illustrations |
-| https://storyset.com | Animated illustrations |
-| https://blush.design | Custom illustrations |
-| https://www.drawkit.com | Illustration packs |
-| https://icons8.com/illustrations | Vector illustrations |
-| https://manypixels.co/gallery | Free illustrations |
-| https://lukaszadam.com/illustrations | SVG illustrations |
-| https://opendoodles.com | Hand-drawn doodles |
-| https://iradesign.io | Gradient illustrations |
-| https://humaaans.com | Human illustrations |
+| [Undraw](https://undraw.co) | Open-source illustrations |
+| [Storyset](https://storyset.com) | Animated illustrations |
+| [Blush](https://blush.design) | Custom illustrations |
+| [DrawKit](https://www.drawkit.com) | Illustration packs |
+| [Open Doodles](https://opendoodles.com) | Hand-drawn illustrations |
 
 ---
 
-## Mockups & Images
+## Images & Mockups
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://unsplash.com | Free high-quality photos |
-| https://pexels.com | Free stock images |
-| https://pixabay.com | Royalty-free media |
-| https://www.freepik.com | Design assets |
-| https://mockupworld.co | Free mockups |
-| https://shots.so | Browser mockups |
-| https://screenshot.rocks | Device screenshots |
-| https://placehold.co | Placeholder images |
-| https://dummyimage.com | Dynamic placeholders |
-| https://www.remove.bg | Background remover |
+| [Unsplash](https://unsplash.com) | Free stock images |
+| [Pexels](https://pexels.com) | Free photography |
+| [Pixabay](https://pixabay.com) | Royalty-free assets |
+| [Mockup World](https://mockupworld.co) | Mockup collection |
+| [Shots](https://shots.so) | Browser mockups |
+| [Remove BG](https://www.remove.bg) | Background remover |
 
 ---
 
@@ -239,225 +212,161 @@
 
 ## Next.js Tools
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://nextjs.org | Official Next.js |
-| https://vercel.com/templates/next.js | Next.js templates |
-| https://next-auth.js.org | Authentication for Next.js |
-| https://next-safe-action.dev | Type-safe server actions |
-| https://next-intl-docs.vercel.app | Internationalization |
-| https://turbo.build/repo | Monorepo tooling |
-| https://swr.vercel.app | Data fetching |
-| https://tanstack.com/query/latest | Async state management |
-| https://trpc.io | End-to-end typesafe APIs |
-| https://contentlayer.dev | Content SDK |
+| [Next.js](https://nextjs.org) | React framework |
+| [NextAuth](https://next-auth.js.org) | Authentication |
+| [TRPC](https://trpc.io) | End-to-end typesafe APIs |
+| [SWR](https://swr.vercel.app) | Data fetching |
+| [TanStack Query](https://tanstack.com/query/latest) | Async state management |
+| [TurboRepo](https://turbo.build/repo) | Monorepo tooling |
+| [Contentlayer](https://contentlayer.dev) | Content SDK |
 
 ---
 
 ## State Management
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://zustand-demo.pmnd.rs | Lightweight state management |
-| https://redux.js.org | Predictable state container |
-| https://jotai.org | Primitive state management |
-| https://recoiljs.org | React state library |
-| https://valtio.pmnd.rs | Proxy-state management |
-| https://xstate.js.org | State machines |
-| https://mobx.js.org | Reactive state management |
-| https://tanstack.com/query | Server state management |
+| [Zustand](https://zustand-demo.pmnd.rs) | Lightweight state management |
+| [Redux](https://redux.js.org) | Predictable state |
+| [Jotai](https://jotai.org) | Primitive state management |
+| [MobX](https://mobx.js.org) | Reactive state |
+| [XState](https://xstate.js.org) | State machines |
 
 ---
 
 ## Forms & Validation
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://react-hook-form.com | Performant forms |
-| https://zod.dev | TypeScript-first validation |
-| https://formik.org | React forms |
-| https://vee-validate.logaretm.com | Form validation |
-| https://valibot.dev | Lightweight validation |
-| https://yup-docs.vercel.app | Schema builder |
-| https://conform.guide | Future-proof forms |
-| https://felte.dev | Extensible forms |
-
----
-
-## Tables & Data Grids
-
-| Website | Description |
-|---|---|
-| https://tanstack.com/table | Headless table library |
-| https://mui.com/x/react-data-grid | MUI data grid |
-| https://www.ag-grid.com | Enterprise data grids |
-| https://react-data-table-component.netlify.app | Simple tables |
-| https://tabulator.info | Interactive tables |
+| [React Hook Form](https://react-hook-form.com) | Performant forms |
+| [Zod](https://zod.dev) | Type-safe validation |
+| [Formik](https://formik.org) | Form management |
+| [Yup](https://yup-docs.vercel.app) | Schema validation |
+| [Valibot](https://valibot.dev) | Lightweight validation |
 
 ---
 
 ## Charts & Data Visualization
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://recharts.org | React chart library |
-| https://nivo.rocks | Beautiful dataviz |
-| https://www.chartjs.org | JavaScript charts |
-| https://echarts.apache.org | Powerful visualization |
-| https://www.highcharts.com | Interactive charts |
-| https://visx.vercel.app | Low-level visualization |
-| https://d3js.org | Data-driven documents |
-| https://apexcharts.com | Modern charts |
+| [Recharts](https://recharts.org) | React chart library |
+| [Nivo](https://nivo.rocks) | Beautiful dataviz |
+| [Chart.js](https://www.chartjs.org) | JavaScript charts |
+| [ECharts](https://echarts.apache.org) | Powerful visualization |
+| [D3.js](https://d3js.org) | Data-driven docs |
 
 ---
 
 # 🛠 Backend & APIs
 
-## API Testing
-
-| Website | Description |
-|---|---|
-| https://www.postman.com | API testing platform |
-| https://insomnia.rest | REST & GraphQL testing |
-| https://hoppscotch.io | Lightweight API testing |
-| https://www.thunderclient.com | VSCode REST client |
-| https://swagger.io/tools/swagger-ui | API documentation |
-
----
-
 ## Authentication
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://clerk.com | Modern auth solution |
-| https://authjs.dev | Authentication for JS |
-| https://supabase.com/auth | Auth + Postgres |
-| https://www.descope.com | Auth workflows |
-| https://stytch.com | Passwordless auth |
-| https://firebase.google.com | Firebase auth |
-| https://www.passportjs.org | Node authentication |
-| https://lucia-auth.com | Simple auth library |
+| [Clerk](https://clerk.com) | Modern auth |
+| [Auth.js](https://authjs.dev) | JavaScript authentication |
+| [Lucia Auth](https://lucia-auth.com) | Simple auth |
+| [Supabase Auth](https://supabase.com/auth) | Postgres auth |
+| [Passport.js](https://www.passportjs.org) | Node authentication |
 
 ---
 
 ## Database Tools
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://supabase.com | Postgres backend |
-| https://neon.tech | Serverless Postgres |
-| https://www.prisma.io | Next-gen ORM |
-| https://railway.app | Easy DB deployment |
-| https://planetscale.com | Scalable databases |
-| https://www.mongodb.com | MongoDB platform |
-| https://postgres.new | Instant Postgres |
-| https://dbdiagram.io | Database diagrams |
-| https://beekeeperstudio.io | SQL GUI |
-| https://tableplus.com | Database management |
+| [Supabase](https://supabase.com) | Backend + Postgres |
+| [Neon](https://neon.tech) | Serverless Postgres |
+| [Prisma](https://www.prisma.io) | Next-gen ORM |
+| [Drizzle](https://orm.drizzle.team) | TypeScript ORM |
+| [MongoDB](https://www.mongodb.com) | NoSQL database |
+| [Railway](https://railway.app) | Easy deployment |
+| [DBDiagram](https://dbdiagram.io) | Database diagrams |
 
 ---
 
-## ORMs & Query Builders
+## API Testing
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://orm.drizzle.team | TypeScript ORM |
-| https://www.prisma.io | Type-safe ORM |
-| https://knexjs.org | SQL query builder |
-| https://sequelize.org | Node ORM |
-| https://mikro-orm.io | TypeScript ORM |
-| https://typeorm.io | TypeORM |
-| https://kysely.dev | Type-safe SQL builder |
-| https://mongoosejs.com | MongoDB ODM |
+| [Postman](https://www.postman.com) | API testing |
+| [Insomnia](https://insomnia.rest) | REST & GraphQL |
+| [Hoppscotch](https://hoppscotch.io) | Lightweight API client |
+| [Swagger UI](https://swagger.io/tools/swagger-ui) | API docs |
 
 ---
 
 # ☁️ DevOps & Deployment
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://vercel.com | Next.js deployment |
-| https://netlify.com | Frontend deployment |
-| https://railway.app | Full-stack deployment |
-| https://render.com | Cloud hosting |
-| https://fly.io | Global app deployment |
-| https://docker.com | Containerization |
-| https://kubernetes.io | Container orchestration |
-| https://ngrok.com | Local tunnel |
-| https://cloudflare.com | CDN & edge network |
-| https://github.com/features/actions | CI/CD automation |
+| [Vercel](https://vercel.com) | Next.js deployment |
+| [Netlify](https://netlify.com) | Frontend hosting |
+| [Render](https://render.com) | Cloud hosting |
+| [Fly.io](https://fly.io) | Global deployments |
+| [Docker](https://docker.com) | Containerization |
+| [Cloudflare](https://cloudflare.com) | CDN & edge network |
+| [GitHub Actions](https://github.com/features/actions) | CI/CD |
 
 ---
 
 # 🧠 AI Developer Tools
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://openai.com | AI APIs |
-| https://v0.dev | AI UI generation |
-| https://bolt.new | AI full-stack builder |
-| https://cursor.com | AI code editor |
-| https://github.com/features/copilot | AI coding assistant |
-| https://lovable.dev | AI app builder |
-| https://www.perplexity.ai | AI search engine |
-| https://claude.ai | AI assistant |
-| https://phind.com | Developer search engine |
-| https://www.tabnine.com | AI autocomplete |
+| [OpenAI](https://openai.com) | AI APIs |
+| [v0](https://v0.dev) | AI UI generation |
+| [Bolt](https://bolt.new) | AI app builder |
+| [Cursor](https://cursor.com) | AI code editor |
+| [GitHub Copilot](https://github.com/features/copilot) | AI coding assistant |
+| [Claude](https://claude.ai) | AI assistant |
 
 ---
 
 # 🧪 Testing & Debugging
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://jestjs.io | JavaScript testing |
-| https://playwright.dev | End-to-end testing |
-| https://www.cypress.io | Frontend testing |
-| https://vitest.dev | Fast unit testing |
-| https://testing-library.com | UI testing utilities |
-| https://sentry.io | Error monitoring |
-| https://logrocket.com | Session replay |
-| https://www.chromatic.com | Visual testing |
+| [Jest](https://jestjs.io) | JavaScript testing |
+| [Playwright](https://playwright.dev) | E2E testing |
+| [Cypress](https://www.cypress.io) | Frontend testing |
+| [Vitest](https://vitest.dev) | Fast unit testing |
+| [Sentry](https://sentry.io) | Error monitoring |
 
 ---
 
-# 📦 Package & Productivity Tools
+# 📦 Productivity Tools
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://npmjs.com | Node package registry |
-| https://yarnpkg.com | JavaScript package manager |
-| https://pnpm.io | Fast package manager |
-| https://bun.sh | Fast JS runtime |
-| https://turborepo.com | Monorepo management |
-| https://nx.dev | Smart monorepos |
-| https://codeium.com | AI coding |
-| https://eslint.org | Linting |
-| https://prettier.io | Code formatting |
-| https://husky.github.io | Git hooks |
+| [npm](https://npmjs.com) | Package registry |
+| [pnpm](https://pnpm.io) | Fast package manager |
+| [Bun](https://bun.sh) | JS runtime |
+| [ESLint](https://eslint.org) | Linting |
+| [Prettier](https://prettier.io) | Code formatting |
+| [Husky](https://typicode.github.io/husky) | Git hooks |
 
 ---
 
 # 📖 Learning Resources
 
-| Website | Description |
+| Resource | Description |
 |---|---|
-| https://developer.mozilla.org | MDN docs |
-| https://frontendmasters.com | Frontend courses |
-| https://www.freecodecamp.org | Free coding lessons |
-| https://egghead.io | Short dev tutorials |
-| https://roadmap.sh | Developer roadmaps |
-| https://javascript.info | Modern JavaScript |
-| https://css-tricks.com | CSS tricks |
-| https://overreacted.io | React deep dives |
-| https://kentcdodds.com | React education |
-| https://web.dev | Performance & PWA |
+| [MDN Web Docs](https://developer.mozilla.org) | Web standards |
+| [Frontend Masters](https://frontendmasters.com) | Frontend courses |
+| [freeCodeCamp](https://www.freecodecamp.org) | Free coding lessons |
+| [Roadmap.sh](https://roadmap.sh) | Developer roadmaps |
+| [JavaScript.info](https://javascript.info) | Modern JavaScript |
+| [Web.dev](https://web.dev) | Performance & PWAs |
 
 ---
 
-# ⭐ Recommended Stack Combo
+# ⭐ Recommended Stack
 
-```txt
+```bash
 Frontend:
 - Next.js
 - TypeScript
@@ -478,18 +387,15 @@ Deployment:
 - Vercel
 - Railway
 - Docker
-
-State:
-- Zustand
-- TanStack Query
 ```
 
 ---
 
 # 🤝 Contributing
 
-Found a useful tool?  
-Open a PR and help grow this collection 🚀
+Found a useful resource?
+
+Feel free to open a PR and contribute 🚀
 
 ---
 
@@ -501,9 +407,7 @@ MIT License © 2026
 
 <div align="center">
 
-### 💻 Built for modern full-stack developers
-
-Made with ❤️ using the MERN + Next.js ecosystem.
+Made with ❤️ for modern full-stack developers.
 
 </div>
 ````
