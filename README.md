@@ -1,21 +1,3 @@
-Here’s a cleaner GitHub-ready version that fixes:
-
-* ✅ Clickable Table of Contents
-* ✅ Proper anchor links
-* ✅ No broken images
-* ✅ Easier editing
-* ✅ Better GitHub rendering
-* ✅ Cleaner structure for a public repo
-
-Save this as:
-
-```txt
-README.md
-```
-
----
-
-````md
 # 🚀 Ultimate Dev Resources
 
 > A curated collection of **100+ modern web development resources** for developers using the **MERN + PostgreSQL + Next.js** stack.
